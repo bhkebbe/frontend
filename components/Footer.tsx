@@ -65,7 +65,7 @@ export default function Footer() {
           <a href="#" className="flex items-center space-x-2 hover:text-blue-400">
             <FaTiktok className="text-xl" /><span>TikTok</span>
           </a>
-          <a href="https://wa.me/2347045461790" className="flex items-center space-x-2 hover:text-blue-400">
+          <a href="https://wa.me/+2348033334353" className="flex items-center space-x-2 hover:text-blue-400">
             <FaWhatsapp className="text-xl" /><span>WhatsApp</span>
           </a>
           <a href="#" className="flex items-center space-x-2 hover:text-blue-400">
